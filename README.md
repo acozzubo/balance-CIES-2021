@@ -1,6 +1,6 @@
-# Replication File: 
-# Balance de Investigación 2016-2021 CIES. 
-# Natural Language Processing (NLP) using abstracts
+# Replication File 
+## Balance de Investigación 2016-2021 CIES. 
+## Natural Language Processing (NLP) using abstracts
 
 <center>
   <img src="https://github.com/acozzubo/balance-CIES-2021/blob/main/cover_CIES.png" alt="drawing" height="370" width="700"/>
