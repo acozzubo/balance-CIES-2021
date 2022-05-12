@@ -16,9 +16,10 @@
 **220505 Base de Publicaciones.xls**: Database with all the selected references. Used as input for the NLP tasks
 
 **220510_abstracts_analysis.ipynb**: Jupyter Notebook with Python code to replicate the analysis 
+
 **220510_abstracts_analysis.html**: HTML version of the notebook 
 
-**211018_Taller de Validación.pptx**: Slides used to present preliminary  results to policymakers
+**211018_Taller de Validación.pdf**: Slides used to present preliminary  results to policymakers
 
 ## Acknowledgments
 
