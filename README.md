@@ -3,7 +3,7 @@
 # Natural Language Processing (NLP) using abstracts
 
 <center>
-  <img src="https://github.com/acozzubo/balance-CIES-2021/blob/main/cover_CIES.png" alt="drawing" height="370" width="900"/>
+  <img src="https://github.com/acozzubo/balance-CIES-2021/blob/main/cover_CIES.png" alt="drawing" height="370" width="700"/>
 </center>
 
 ## Authors: Javier Herrera, Norma Correa y Angelo Cozzubo
