@@ -9,7 +9,7 @@
 ## Authors: Javier Herrera, Norma Correa y Angelo Cozzubo
 ## Code by: Jose Mendoza 
 
-**Note:** this repository only stores the electronic appendix. The full chapter can be found [HERE] (https://cies.org.pe/sites/default/files/investigaciones/1.4_politica_economica_pobreza_y_distribucion_del_ingreso.pdf) 
+**Note:** this repository only stores the electronic appendix. The full chapter can be found [HERE](https://cies.org.pe/sites/default/files/investigaciones/1.4_politica_economica_pobreza_y_distribucion_del_ingreso.pdf) 
 
 ### File Descriptions
 
